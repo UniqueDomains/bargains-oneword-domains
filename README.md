@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BARGAINS one-word domains still available to buy.
 
-This dataset contains 4,822 .BARGAINS one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,824 .BARGAINS one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BARGAINS one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bargains-oneword-domains&utm_content=description.top) (4,822) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BARGAINS one word dom
 | abatic.bargains     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.bargains    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.bargains   | available | 50       | 1%     | 8      |           |         |         |
-| abc.bargains        | available | 102      | 41%    | 3      |           |         |         |
+| abc.bargains        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.bargains  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.bargains  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.bargains | available | 56       | 1%     | 10     |           |         |         |
