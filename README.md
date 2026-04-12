@@ -64,7 +64,7 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| open.bargains        | available | $21.99    | —             | 70             | 61     | 4      | name.com          |
+| open.bargains        | available | $21.99    | —             | 70             | 60     | 4      | name.com          |
 | bot.bargains         | resell    | —         | —             | 98             | 53     | 3      | Sav.com, LLC - 26 |
 | ace.bargains         | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com          |
 | zero.bargains        | available | $21.99    | $43.99        | 112            | 54     | 4      | name.com          |
