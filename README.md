@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bargains one-word domains from Un
 
 **Public extract:** 9,690 rows · **Live catalog:** 9,690 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/bargains`  
 **Best for:** founders, investors, studios
 
@@ -67,10 +67,10 @@ print(df.head())
 | open.bargains        | available | $21.99    | —             | 70             | 60     | 4      | name.com          |
 | bot.bargains         | resell    | —         | —             | 98             | 53     | 3      | Sav.com, LLC - 26 |
 | ace.bargains         | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com          |
-| alpha.bargains       | available | $21.99    | $43.99        | 90             | 54     | 5      | name.com          |
+| zero.bargains        | available | $21.99    | $43.99        | 112            | 53     | 4      | name.com          |
 | bit.bargains         | resell    | —         | —             | 108            | 47     | 3      | NameCheap, Inc.   |
 | live.bargains        | premium   | $250      | $250          | 108            | 56     | 4      | name.com          |
-| zero.bargains        | available | $21.99    | $43.99        | 112            | 53     | 4      | name.com          |
+| alpha.bargains       | available | $21.99    | $43.99        | 90             | 53     | 5      | name.com          |
 | super.bargains       | resell    | —         | —             | 58             | 45     | 5      | 1API GmbH         |
 | data.bargains        | premium   | $42.90    | $42.90        | 70             | 56     | 4      | namecheap         |
 | fast.bargains        | available | $21.99    | $43.99        | 82             | 53     | 4      | name.com          |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
