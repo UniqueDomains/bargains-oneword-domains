@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bargains one-word domains from Un
 
 **Public extract:** 9,690 rows · **Live catalog:** 9,690 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/bargains`  
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | bot.bargains         | resell    | —         | —             | 98             | 53     | 3      | Sav.com, LLC - 26 |
 | ace.bargains         | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com          |
 | zero.bargains        | available | $21.99    | $43.99        | 112            | 53     | 4      | name.com          |
-| bit.bargains         | resell    | —         | —             | 108            | 47     | 3      | NameCheap, Inc.   |
+| real.bargains        | resell    | —         | —             | 78             | 48     | 4      | Porkbun LLC       |
 | live.bargains        | premium   | $250      | $250          | 108            | 56     | 4      | name.com          |
 | alpha.bargains       | available | $21.99    | $43.99        | 90             | 53     | 5      | name.com          |
-| super.bargains       | resell    | —         | —             | 58             | 45     | 5      | 1API GmbH         |
+| bit.bargains         | resell    | —         | —             | 108            | 47     | 3      | NameCheap, Inc.   |
 | data.bargains        | premium   | $42.90    | $42.90        | 70             | 56     | 4      | namecheap         |
-| fast.bargains        | available | $21.99    | $43.99        | 82             | 53     | 4      | name.com          |
-| tap.bargains         | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC  |
-| good.bargains        | premium   | $250      | $250          | 82             | 55     | 4      | name.com          |
 | true.bargains        | available | $21.99    | $43.99        | 86             | 52     | 4      | name.com          |
-| marketplace.bargains | resell    | —         | —             | 76             | 42     | 11     | GoDaddy.com, LLC  |
+| super.bargains       | resell    | —         | —             | 58             | 45     | 5      | 1API GmbH         |
+| good.bargains        | premium   | $250      | $250          | 82             | 55     | 4      | name.com          |
+| fast.bargains        | available | $21.99    | $43.99        | 82             | 52     | 4      | name.com          |
+| tap.bargains         | resell    | —         | —             | 78             | 42     | 3      | GoDaddy.com, LLC  |
 | free.bargains        | premium   | $500      | $500          | 88             | 54     | 4      | name.com          |
 | snap.bargains        | available | $21.99    | $43.99        | 90             | 46     | 4      | name.com          |
-| market.bargains      | resell    | —         | —             | 74             | 42     | 6      | GoDaddy.com, LLC  |
+| marketplace.bargains | resell    | —         | —             | 76             | 42     | 11     | GoDaddy.com, LLC  |
 | business.bargains    | premium   | $128.70   | $128.70       | 100            | 53     | 8      | namecheap         |
 | creator.bargains     | available | $21.99    | $43.99        | 70             | 45     | 7      | name.com          |
-| save.bargains        | resell    | —         | —             | 70             | 39     | 4      | GoDaddy.com, LLC  |
+| market.bargains      | resell    | —         | —             | 74             | 42     | 6      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
