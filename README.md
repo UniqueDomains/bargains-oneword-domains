@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bargains one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,658 domains · **Median ask:** $27.41 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/bargains`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | Acup.bargains      | available | $37.98    | —             | 80             | 5      | 5      | namecheap |
 | Trex.bargains      | available | $37.98    | —             | 80             | 24     | 5      | namecheap |
 | finals.bargains    | available | $21.99    | —             | 80             | 7      | 6      | name.com  |
-| popup.bargains     | available | $21.99    | —             | 84             | 29     | 6      | name.com  |
+| popup.bargains     | available | $21.99    | —             | 84             | 28     | 6      | name.com  |
 | QandA.bargains     | available | $37.98    | —             | 80             | 10     | 7      | namecheap |
 | toneup.bargains    | available | $21.99    | —             | 80             | 5      | 7      | name.com  |
 | dogsick.bargains   | available | $21.99    | —             | 90             | 1      | 7      | name.com  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
