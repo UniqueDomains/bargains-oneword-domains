@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .bargains one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,658 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,658 domains · **Median ask:** $27.41 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,658 domains · **Median ask:** $28.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/bargains`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.bargains      | available | $37.98    | —             | 80             | 5      | 5      | namecheap |
-| Trex.bargains      | available | $37.98    | —             | 80             | 24     | 5      | namecheap |
-| finals.bargains    | available | $21.99    | —             | 80             | 7      | 6      | name.com  |
-| popup.bargains     | available | $21.99    | —             | 84             | 28     | 6      | name.com  |
-| QandA.bargains     | available | $37.98    | —             | 80             | 10     | 7      | namecheap |
-| toneup.bargains    | available | $21.99    | —             | 80             | 5      | 7      | name.com  |
-| dogsick.bargains   | available | $21.99    | —             | 90             | 1      | 7      | name.com  |
-| getlife.bargains   | available | $21.99    | —             | 80             | 5      | 8      | name.com  |
-| leaveon.bargains   | available | $21.99    | —             | 80             | 1      | 8      | name.com  |
-| skills.bargains    | available | $21.99    | —             | 58             | 47     | 6      | name.com  |
-| cars.bargains      | premium   | $123.75   | —             | 66             | 47     | 4      | name.com  |
-| Ryan.bargains      | available | $37.98    | —             | 60             | 44     | 4      | namecheap |
-| tickets.bargains   | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo  |
-| prompts.bargains   | available | $21.99    | —             | 54             | 39     | 7      | name.com  |
-| etc.bargains       | premium   | $82.50    | —             | 58             | 32     | 3      | name.com  |
-| stories.bargains   | available | $21.99    | —             | 58             | 36     | 7      | name.com  |
-| solutions.bargains | premium   | $82.50    | —             | 56             | 31     | 9      | name.com  |
-| trends.bargains    | available | $21.99    | —             | 60             | 32     | 6      | name.com  |
-| systems.bargains   | premium   | $82.50    | —             | 46             | 27     | 7      | name.com  |
-| William.bargains   | available | $37.98    | —             | 74             | 31     | 7      | namecheap |
+| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| charge.bargains           | available | $21.99    | —             | 86             | 29     | 6      | name.com  |
+| rubber.bargains           | available | $21.99    | —             | 105            | 17     | 6      | name.com  |
+| break.bargains            | available | $21.99    | —             | 82             | 21     | 5      | name.com  |
+| half.bargains             | available | $21.99    | —             | 152            | 19     | 4      | name.com  |
+| ancestor.bargains         | premium   | —         | —             | 90             | 8      | 8      | —         |
+| stray.bargains            | available | $21.99    | —             | 102            | 21     | 5      | name.com  |
+| yuck.bargains             | available | $21.99    | —             | 104            | 8      | 4      | name.com  |
+| fairy.bargains            | available | $21.99    | —             | 90             | 25     | 5      | name.com  |
+| recondite.bargains        | premium   | —         | —             | 86             | 4      | 9      | —         |
+| engage.bargains           | available | $21.99    | —             | 84             | 32     | 6      | name.com  |
+| Duracell.bargains         | available | $21.99    | —             | 92             | 7      | 8      | name.com  |
+| extend.bargains           | available | $21.99    | —             | 84             | 18     | 6      | name.com  |
+| private.bargains          | available | $21.99    | —             | 86             | 39     | 7      | name.com  |
+| remain.bargains           | available | $21.99    | —             | 84             | 11     | 6      | name.com  |
+| curve.bargains            | premium   | —         | —             | 92             | 29     | 5      | —         |
+| result.bargains           | available | $21.99    | —             | 116            | 20     | 6      | name.com  |
+| norfolk.bargains          | available | $21.99    | —             | 84             | 14     | 7      | name.com  |
+| often.bargains            | available | $21.99    | —             | 86             | 11     | 5      | name.com  |
+| Irishhospitality.bargains | available | $21.99    | —             | 82             | 1      | 17     | name.com  |
+| prince.bargains           | available | $21.99    | —             | 88             | 28     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
