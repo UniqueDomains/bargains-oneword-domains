@@ -1,10 +1,10 @@
-# Available .BARGAINS One-Word Domains (12,658)
+# Available .BARGAINS One-Word Domains (12,659)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C658%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C659%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .bargains one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,658 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,659 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,658 domains · **Median ask:** $28.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,659 domains · **Median ask:** $26.70 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/bargains`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bargains`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BARGAINS one-word dom
 
 ### Files
 
-- `bargains.csv` — public CSV extract (1,000 rows)
-- `bargains.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bargains.csv`, public CSV extract (1,000 rows)
+- `bargains.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| charge.bargains           | available | $21.99    | —             | 86             | 29     | 6      | name.com  |
-| rubber.bargains           | available | $21.99    | —             | 105            | 17     | 6      | name.com  |
-| break.bargains            | available | $21.99    | —             | 82             | 21     | 5      | name.com  |
-| half.bargains             | available | $21.99    | —             | 152            | 19     | 4      | name.com  |
-| ancestor.bargains         | premium   | —         | —             | 90             | 8      | 8      | —         |
-| stray.bargains            | available | $21.99    | —             | 102            | 21     | 5      | name.com  |
-| yuck.bargains             | available | $21.99    | —             | 104            | 8      | 4      | name.com  |
-| fairy.bargains            | available | $21.99    | —             | 90             | 25     | 5      | name.com  |
-| recondite.bargains        | premium   | —         | —             | 86             | 4      | 9      | —         |
-| engage.bargains           | available | $21.99    | —             | 84             | 32     | 6      | name.com  |
-| Duracell.bargains         | available | $21.99    | —             | 92             | 7      | 8      | name.com  |
-| extend.bargains           | available | $21.99    | —             | 84             | 18     | 6      | name.com  |
-| private.bargains          | available | $21.99    | —             | 86             | 39     | 7      | name.com  |
-| remain.bargains           | available | $21.99    | —             | 84             | 11     | 6      | name.com  |
-| curve.bargains            | premium   | —         | —             | 92             | 29     | 5      | —         |
-| result.bargains           | available | $21.99    | —             | 116            | 20     | 6      | name.com  |
-| norfolk.bargains          | available | $21.99    | —             | 84             | 14     | 7      | name.com  |
-| often.bargains            | available | $21.99    | —             | 86             | 11     | 5      | name.com  |
-| Irishhospitality.bargains | available | $21.99    | —             | 82             | 1      | 17     | name.com  |
-| prince.bargains           | available | $21.99    | —             | 88             | 28     | 6      | name.com  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
+| ash.bargains      | available | $21.99    | —             | medium         | low    | 3      | name.com                |
+| bit.bargains      | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.         |
+| aaa.bargains      | premium   | $260      | $260          | high           | medium | 3      | namecheap               |
+| bow.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
+| shopping.bargains | resell    | —         | —             | medium         | low    | 8      | Unstoppable Domains Inc |
+| dot.bargains      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                |
+| boy.bargains      | available | $21.99    | —             | medium         | low    | 3      | name.com                |
+| fit.bargains      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                |
+| des.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
+| gal.bargains      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo                |
+| dew.bargains      | available | $21.99    | —             | medium         | low    | 3      | name.com                |
+| His.bargains      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
+| dna.bargains      | available | $21.99    | —             | high           | medium | 3      | name.com                |
+| hot.bargains      | premium   | $242      | $242          | high           | low    | 3      | namesilo                |
+| eye.bargains      | available | $21.99    | —             | medium         | low    | 3      | name.com                |
+| pot.bargains      | premium   | $500      | —             | high           | low    | 3      | name.com                |
+| hey.bargains      | available | $21.99    | —             | medium         | medium | 3      | name.com                |
+| rip.bargains      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                |
+| les.bargains      | available | $21.99    | —             | medium         | low    | 3      | name.com                |
+| sad.bargains      | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,658 live domains                        |
+| 1,000-row public sample | 12,659 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .bargains domains. The strongest names usually pair a clear commercial term with the extension, as in WiFi.bargains or jewels.bargains, where the word and suffix read naturally together. Others are more niche, abstract, or context-dependent, which can affect buyer appeal and resale depth. With a median ask of 27.41, price is accessible, but that does not make every name equally strong. When comparing these domains, look first at keyword clarity, how naturally the full domain reads, memorability, and whether the term could create trademark friction in actual use.
+This list of .bargains domains includes 12,659 names, nearly all available now and priced under $500. The median ask sits around $27, making this TLD accessible for founders testing a brand and investors scanning for volume plays. Most names show low demand scores, with a small cluster of premium or high-demand picks standing out from the rest.
 
-- Favor words that fit the .bargains extension naturally
-- Clear commercial terms usually age better than abstract words
-- Check ask price against keyword quality and buyer breadth
-- Review trademark risk before treating a name as ownable
+- 12,659 .bargains domains, 12,198 currently available
+- Median ask ~$27; 11,543 names priced under $500
+- 438 marked Premium status; 23 tagged Resell
+- 8,367 names flagged easy-to-spell for quick recall
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
