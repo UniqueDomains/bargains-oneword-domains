@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bargains one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,174 domains · **Median ask:** $19.96 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/bargains`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| half.bargains     | available | $21.99    | —             | high           | low    | 4      | name.com                |
-| quiet.bargains    | available | $21.99    | —             | high           | low    | 5      | name.com                |
-| here.bargains     | premium   | $38.94    | $38.94        | high           | medium | 4      | namesilo                |
-| time.bargains     | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                |
 | ash.bargains      | available | $21.99    | —             | medium         | low    | 3      | name.com                |
 | shopping.bargains | resell    | —         | —             | medium         | low    | 8      | Unstoppable Domains Inc |
 | aaa.bargains      | premium   | $260      | $260          | medium         | medium | 3      | namecheap               |
@@ -83,7 +79,11 @@ print(df.head())
 | hot.bargains      | premium   | $242      | $242          | medium         | low    | 3      | namesilo                |
 | dna.bargains      | available | $21.99    | —             | high           | medium | 3      | name.com                |
 | pot.bargains      | premium   | $500      | —             | high           | low    | 3      | name.com                |
-| eye.bargains      | available | $21.99    | —             | medium         | low    | 3      | name.com                |
+| eye.bargains      | available | $17.99    | $26.49        | low            | low    | 3      | namesilo                |
+| rip.bargains      | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                |
+| hey.bargains      | available | $21.99    | —             | medium         | medium | 3      | name.com                |
+| sad.bargains      | premium   | $82.50    | $82.50        | high           | low    | 3      | name.com                |
+| les.bargains      | available | $21.99    | —             | medium         | low    | 3      | name.com                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
