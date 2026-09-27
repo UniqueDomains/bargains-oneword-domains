@@ -1,10 +1,10 @@
-# Available .BARGAINS One-Word Domains (14,727)
+# Available .BARGAINS One-Word Domains (23,623)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C727%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C623%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bargains one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,727 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,623 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,727 domains · **Median ask:** $20.11 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 23,623 domains · **Median ask:** $20.68 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-26
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/bargains`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| ash.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
-| shopping.bargains | resell    | —         | —             | high           | low    | 8      | Unstoppable Domains Inc |
-| aaa.bargains      | premium   | $260      | $260          | high           | medium | 3      | namecheap               |
-| atp.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
-| bed.bargains      | premium   | $242      | $242          | high           | low    | 3      | namesilo                |
-| aug.bargains      | available | $14.98    | $37.98        | high           | low    | 3      | namecheap               |
-| bid.bargains      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
-| bce.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
-| gal.bargains      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
-| boy.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
-| his.bargains      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                |
-| cap.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
-| joy.bargains      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                |
-| des.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
-| pot.bargains      | premium   | $520      | $520          | high           | low    | 3      | namecheap               |
-| dew.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
-| rip.bargains      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                |
-| die.bargains      | available | $21.99    | —             | high           | low    | 3      | name.com                |
-| top.bargains      | premium   | $520      | $520          | high           | medium | 3      | namecheap               |
-| dna.bargains      | available | $21.99    | —             | high           | medium | 3      | name.com                |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| aba.bargains  | available | $21.99    | $43.99        | high           | low    | 3      | name.com    |
+| mega.bargains | resell    | —         | —             | high           | medium | 4      | Porkbun LLC |
+| pit.bargains  | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap   |
+| asl.bargains  | available | $14.98    | $37.98        | high           | low    | 3      | namecheap   |
+| rip.bargains  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo    |
+| aum.bargains  | available | $14.98    | $37.98        | high           | low    | 3      | namecheap   |
+| sir.bargains  | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo    |
+| btw.bargains  | available | $21.99    | —             | high           | low    | 3      | name.com    |
+| tel.bargains  | premium   | $500      | —             | high           | low    | 3      | name.com    |
+| cpr.bargains  | available | $14.98    | $37.98        | high           | low    | 3      | namecheap   |
+| win.bargains  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo    |
+| cup.bargains  | available | $14.98    | $37.98        | high           | low    | 3      | namecheap   |
+| yes.bargains  | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo    |
+| die.bargains  | available | $21.99    | —             | high           | low    | 3      | name.com    |
+| beat.bargains | premium   | $260      | $260          | high           | low    | 4      | namecheap   |
+| err.bargains  | available | $21.99    | —             | high           | low    | 3      | name.com    |
+| live.bargains | premium   | $242      | $242          | high           | medium | 4      | namesilo    |
+| idk.bargains  | available | $21.99    | —             | medium         | low    | 3      | name.com    |
+| post.bargains | premium   | $500      | —             | high           | medium | 4      | name.com    |
+| jay.bargains  | available | $21.99    | —             | high           | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,727 live domains                        |
+| 1,000-row public sample | 23,623 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BARGAINS One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
